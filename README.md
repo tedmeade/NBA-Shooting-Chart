@@ -6,3 +6,5 @@ I then used ggplot to graph their shots and diversify whether they made it or no
 I also imported a court image to make the shooting chart more accurate and user friendly so that you may see where on the court each player shot from.
 The overall image is split into a grid so that I could place the shooting chart, title, and player image in their appropreiate places with almost identical formats.
 Once the grid is complete with the proper data I saved it as a complete image to replicate what you may see on a sports website. I hope you enjoy!
+
+![chrispaulimg1](https://user-images.githubusercontent.com/120126470/207424636-c3eadb59-7dca-46f8-8228-9ee48865fc72.png)
